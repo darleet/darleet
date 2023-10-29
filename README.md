@@ -1,18 +1,24 @@
-![WELCOME, STRANGER](headers/welcome_white.png#gh-dark-mode-only)
-![WELCOME, STRANGER](headers/welcome.png#gh-light-mode-only)
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./headers/welcome_white.png">
+  <img alt="WELCOME, STRANGER" src="./headers/welcome.png">
+</picture>
+<hr>
 
 ![Whatever happens, happens.](whatever_happens.gif)
 
-![MY SKILLS](headers/skills_white.png#gh-dark-mode-only)
-![MY SKILLS](headers/skills.png#gh-light-mode-only)
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./headers/skills_white.png">
+  <img alt="MY SKILLS" src="./headers/skills.png">
+</picture>
+<hr>
 
 [![Skills](https://skillicons.dev/icons?i=go,py,docker,linux,postgres,git,github)](https://skillicons.dev)
 
-![MY STATS](headers/stats_white.png#gh-dark-mode-only)
-![MY STATS](headers/stats.png#gh-light-mode-only)
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./headers/stats_white.png">
+  <img alt="MY STATS" src="./headers/stats.png">
+</picture>
+<hr>
 
 ![Stats](https://readme-stats-alpha-rust.vercel.app/api?username=darleet&show_icons=true&hide_border=true&theme=tokyonight)
 
