@@ -2,6 +2,10 @@
 
 ![Whatever happens, happens.](whatever_happens.gif)
 
+## My skills
+
+[![My Skills](https://skillicons.dev/icons?i=go,py,docker,linux,postgres,git,github)](https://skillicons.dev)
+
 ## My stats
 
 <!--START_SECTION:waka-->
