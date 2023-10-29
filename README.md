@@ -1,10 +1,7 @@
-<img src="./pochita.gif" height="55">
-<picture>
+<h1><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./headers/welcome_white.png">
   <img alt="WELCOME, STRANGER" src="./headers/welcome.png" width="500">
-</picture>
-<img src="./cowboy_bebop.gif" height="60">
-<hr><br>
+</picture></h1>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2038%20mins-blue)
