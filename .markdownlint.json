@@ -3,7 +3,8 @@
       "allowed_elements": [
         "picture",
         "source",
-        "img"
+        "img",
+        "h1"
       ]
     }
   }
