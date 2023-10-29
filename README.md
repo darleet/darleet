@@ -3,6 +3,8 @@
   <img alt="WELCOME, STRANGER" src="./headers/welcome.png" width="500">
 </picture></h1>
 
+![Whatever happens, happens](./whatever_happens.gif)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2019%20mins-blue)
 
@@ -39,7 +41,4 @@ GoLand                   2 mins              █░░░░░░░░░░�
 Linux                    2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
-
 <!--END_SECTION:waka-->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darleet&layout=compact&hide_border=true&theme=tokyonight)
