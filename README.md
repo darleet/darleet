@@ -4,7 +4,7 @@
 </picture></h1>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -13,10 +13,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                67 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-🌆 Daytime                266 commits         ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-🌃 Evening                411 commits         █████████░░░░░░░░░░░░░░░░   36.21 % 
-🌙 Night                  391 commits         █████████░░░░░░░░░░░░░░░░   34.45 % 
+🌞 Morning                67 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+🌆 Daytime                266 commits         ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+🌃 Evening                411 commits         █████████░░░░░░░░░░░░░░░░   36.02 % 
+🌙 Night                  397 commits         █████████░░░░░░░░░░░░░░░░   34.79 % 
 ```
 
 
@@ -40,7 +40,6 @@ Linux                    2 hrs 14 mins       ███████████�
 ```
 
 
- Last Updated on 29/10/2023 22:15:29 UTC
 <!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darleet&layout=compact&hide_border=true&theme=tokyonight)
