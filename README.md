@@ -1,7 +1,9 @@
-<h1><picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./headers/welcome_white.png">
   <img alt="WELCOME, STRANGER" src="./headers/welcome.png" width="500">
-</picture></h1>
+</picture>
+
+<hr>
 
 ![Whatever happens, happens](./whatever_happens.gif)
 
