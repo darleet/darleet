@@ -8,19 +8,19 @@
 ![Whatever happens, happens](./whatever_happens.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-771.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-775.9%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-🌆 Daytime                333 commits         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-🌃 Evening                528 commits         █████████░░░░░░░░░░░░░░░░   35.29 % 
-🌙 Night                  541 commits         █████████░░░░░░░░░░░░░░░░   36.16 % 
+🌞 Morning                85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+🌆 Daytime                315 commits         ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+🌃 Evening                490 commits         █████████░░░░░░░░░░░░░░░░   35.23 % 
+🌙 Night                  501 commits         █████████░░░░░░░░░░░░░░░░   36.02 % 
 ```
 
 
