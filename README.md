@@ -7,6 +7,8 @@
 
 ![Whatever happens, happens](./whatever_happens.gif)
 
+![Profile Views](https://komarev.com/ghpvc/?username=darleet&color=blue)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2029%20mins-blue)
 
