@@ -26,13 +26,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       13 mins             █████████████████████████   100.00 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
