@@ -10,7 +10,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=darleet&color=blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-183%20hrs%2021%20mins-blue)
 
 **I'm a Night 🦉** 
 
