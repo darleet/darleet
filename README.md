@@ -26,14 +26,13 @@
 
 ```text
 💬 Programming Languages: 
-Python                   2 mins              ████████████████████████░   96.31 % 
-TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Go** 
