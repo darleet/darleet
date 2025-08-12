@@ -10,7 +10,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=darleet&color=blue)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2054%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -26,13 +26,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 4 mins              ████████████████████░░░░░   81.27 % 
+Python                   0 secs              █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
