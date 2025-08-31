@@ -10,6 +10,31 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=darleet&color=blue)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-994%20hrs%2025%20mins-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+🌆 Daytime                653 commits         ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+🌃 Evening                1325 commits        ████████████░░░░░░░░░░░░░   48.57 % 
+🌙 Night                  513 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Go** 
 
 ```text
